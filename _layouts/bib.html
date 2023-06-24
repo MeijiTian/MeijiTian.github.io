@@ -158,11 +158,11 @@
 
           <!-- Journal/Book title and date -->
           {% if entry.type == "article" -%}
-            {%- capture entrytype -%}<strong>{{entry.journal}}</strong>{%- endcapture -%}
+            {%- capture entrytype -%}<i>{{entry.journal}}</i>{%- endcapture -%}
           {%- elsif entry.type == "inproceedings" -%}
-            {%- capture entrytype -%}In<strong> {{entry.booktitle}}</strong> {%- endcapture -%}
+            {%- capture entrytype -%}<i> {{entry.booktitle}}</i> {%- endcapture -%}
           {%- elsif ["incollection"] contains entry.type -%}
-            {%- capture entrytype -%}In<strong> {{entry.booktitle}}</strong> {%- endcapture -%}
+            {%- capture entrytype -%}<i> {{entry.booktitle}}</i> {%- endcapture -%}
           {%- else -%}
             {%- capture entrytype -%}{%- endcapture -%}
           {%- endif -%}
@@ -170,7 +170,7 @@
             {%- capture entrymonth -%}{{ " " }}{{ entry.month | capitalize }}{%- endcapture -%}
           {%- endif -%}
           {%- if entry.year -%}
-            {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
+            {%- capture entryyear -%}{{ " " }}<i>{{entry.year}}</i>{%- endcapture -%}
           {%- endif -%}
           {%- if entry.state -%}
             {%- capture entrystate -%}{{ " " }}{{entry.state}}{%- endcapture -%}

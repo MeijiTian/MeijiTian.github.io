@@ -7,4 +7,4 @@ nav: true
 nav_order: 5
 ---
 
-2021 Fall, CS270: Digital Image Processing
+2023 Spring, CS270B: Advanced Digital Image Processing
