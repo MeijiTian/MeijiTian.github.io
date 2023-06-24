@@ -37,13 +37,13 @@
     #         - Sub-description 1.
     #         - Sub-description 2.
     - title: Self-supervised Image Denoising for Biomedical images. 
-      year: 2021/11-Now
+      year: 2021/11-Now 
       description:
         - Proposed a self-supervised image denoising framework Noise2SR.
         - Theoretical proved that a denoised image can be generated from a sub-sampled noisy image using whole noisy image supervision which is equivalent to using clean signal as supervision.
         - Experiment results show that Noise2SR outperforms SOTA self-supervised denoising methods (Noise2Self, Neighbor2Neighbor) in real fluorescence microscopy and MRI image noise removal.
     - title: Zero-shot Learning for High Resolution Electron Microscopy (HREM). 
-      year: 2022/1 -Now
+      year: 2022/1 -2022
       description:
         - Proposed a zero-shot learning self-supervised denoising framework for noisy HREM images.
         - Outperformed self-supervised SOTA zero-shot methods (Self2Self, FBI-Denoiser) in ultra-low SNR HREM image scenarios
