@@ -5,6 +5,17 @@
 
 
 
+@inproceedings{tian2024,
+  abbr={Under-review},
+  title={Zero-Shot Image Denoising for High-Resolution Electron Microscopy},
+  author={Tian, Xuanyu and Dong, Zhuoya, and Li, Xiyue, and Gao, Yue and Wei, Hongjiang and Ma, Yanhang, and Yu Jingyi and Zhang, Yuyao},
+  abstract = {High-resolution electron microscopy (HREM) imaging technique is a powerful tool for directly visualizing a broad range of materials in real-space. However, it faces challenges in denoising due to ultra-low signal-to-noise ratio (SNR) and scarce data availability. In this work, we propose Noise2SR, a zero- shot self-supervised learning (ZS-SSL) denoising framework for HREM. Within our framework, we propose a super-resolution (SR) based self-supervised training strategy, incorporating the Random Sub-sampler module. The Random Sub-sampler is designed to generate approximate infinite noisy pairs from a single noisy image, serving as an effective data augmentation in zero-shot denoising. Noise2SR trains the network with paired noisy images of different resolutions, which is conducted via SR strategy. The SR-based training facilitates the network adopting more pixels for supervision, and the random sub-sampling helps compel the network to learn continuous signals enhancing the robustness. Meanwhile, we mitigate the uncertainty caused by random-sampling by adopting minimum mean squared error (MMSE) estimation for the denoised results. With the distinctive integration of training strategy and proposed designs, Noise2SR can achieve superior denoising performance using a single noisy HREM image. We evaluate the performance of Noise2SR in both simulated and real HREM denoising tasks. It outperforms state- of-the-art ZS-SSL methods and achieves comparable denoising performance with supervised methods. The success of Noise2SR suggests its potential for improving the SNR of images in material imaging domains.},
+  booktitle={Under Review},
+  selected={true},
+  code = {https://github.com/MeijiTian/ZS-Denoiser-HREM},
+  preview={ZSD-HREM.png},
+}
+
 @inproceedings{jiang2023,
   abbr={ISBI 2023},
   title={Self-supervised High-Dimensional Magnetic Resonance Image Denoising Using Super-resolved Single Noisy Image},
