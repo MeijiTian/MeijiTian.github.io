@@ -20,7 +20,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
-I am Xuanyu Tian (田烜宇 in Chinese), a third-year Ph.D. student in [SMILE Lab:smiley:](https://smilelab.com.cn) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) (Shanghai, China), advised by Prof. [Yuyao Zhang](https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54827/page.htm). Before that, I received my B.E. degree at Wuhan University of Technology in 2021.
+I am Xuanyu Tian (田烜宇 in Chinese), a forth-year Ph.D. student in [SMILE Lab:smiley:](https://smilelab.com.cn) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) (Shanghai, China), advised by Prof. [Yuyao Zhang](https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54827/page.htm). Before that, I received my B.E. degree at Wuhan University of Technology in 2021.
 
 I am interested in a variety of topics in <strong>medical image reconstruction</strong> and <strong>image restoration</strong>. My current research focuses include: <br>
 * Computational Imaging; <br>
