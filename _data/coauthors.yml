@@ -21,18 +21,23 @@
   - firstname: ["Karl"]
     url: https://link.springer.com/article/10.1007/s00016-019-00242-z
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
-
-"Qing":
-  - firstname: ["Wu"]
+"Wu":
+  - firstname: ["Qing"]
     url: https://iwuqing.github.io
+
+  - firstname: ["Jiangjie"]
+    url: https://miraiwu.github.io/
+
+"Chen":
+  - firstname: ["Lixuan"]
+    url: https://maopaom.github.io/
+
+"Zhang":
+  - firstname: ["Yuyao"]
+    url: https://scholar.google.com/citations?user=gIE0JTAAAAAJ&hl
+
+"Wei":
+  - firstname: ["Hongjiang"]
+    url: https://scholar.google.com/citations?user=IORn-tEAAAAJ&hl
+

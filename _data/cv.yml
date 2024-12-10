@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: M.S.
+    - title: Ph.D. Candidate
       institution: ShanghaiTech University, Shanghai, China
       year: 2021
       description:
@@ -37,25 +37,33 @@
     #         - Sub-description 1.
     #         - Sub-description 2.
     - title: Solving Medical Inverse problem via Self-supervised learning. 
-      year: 2024/03- Now
+      year: Mar 24 - Present
       description:
         - Adopted Implicit Neural Representation for CT and MRI reconstruction.
         - Adopted diffusion model for MRI motion correction.
 
     
     - title: Self-supervised Image Denoising for Biomedical images. 
-      year: 2021/11- Now
+      year: Sep 21 - Present
       description:
         - Proposed a self-supervised image denoising framework Noise2SR.
         - Theoretical proved that a denoised image can be generated from a sub-sampled noisy image using whole noisy image supervision which is equivalent to using clean signal as supervision.
         - Experiment results show that Noise2SR outperforms SOTA self-supervised denoising methods (Noise2Self, Neighbor2Neighbor) in real fluorescence microscopy and MRI image noise removal.
     - title: Zero-shot Learning for High Resolution Electron Microscopy (HREM). 
-      year: 2022/01 - 2024/09
+      year: Jan 22 - Sep 24
       description:
         - Proposed a zero-shot learning self-supervised denoising framework for noisy HREM images.
         - Outperformed self-supervised SOTA zero-shot methods (Self2Self, FBI-Denoiser) in ultra-low SNR HREM image scenarios
 
- 
+
+- title: Academic Service
+  type: map
+  contents:
+      - name: Journal Reviewer
+        value: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+      - name: Conference Reviewer
+        value: MICCAI 24'; ISBI 23', 24'
+
 
 # - title: Experience
 #   type: time_table
