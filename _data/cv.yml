@@ -1,12 +1,12 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Xuanyu Tian
-    - name: Date of Birth
-      value: Aug. 1999
-    - name: Languages
-      value: English, Mandarin
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Xuanyu Tian
+#     - name: Date of Birth
+#       value: Aug. 1999
+#     - name: Languages
+#       value: English, Mandarin
 
 - title: Education
   type: time_table
@@ -16,7 +16,7 @@
       year: 2021
       description:
         - Computer Science and Technology 
-        - Advisor Yuyao Zhang
+        - Advisor <a href = "https://scholar.google.com/citations?user=gIE0JTAAAAAJ&hl">Yuyao Zhang</a>
     - title:  Bachelor
       institution: Wuhan Univeristy of Technology, Wuhan, Hubei, China
       description:
@@ -55,6 +55,14 @@
         - Proposed a zero-shot learning self-supervised denoising framework for noisy HREM images.
         - Outperformed self-supervised SOTA zero-shot methods (Self2Self, FBI-Denoiser) in ultra-low SNR HREM image scenarios
 
+- title: Teaching
+  type: time_table
+  contents:      
+    - title: Teaching Assistant
+      institution: >
+        CS270B: Advanced Deep Image Processing, ShanghaiTech University
+      year: Spring 2023
+      
 
 - title: Academic Service
   type: map
@@ -62,7 +70,7 @@
       - name: Journal Reviewer
         value: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
       - name: Conference Reviewer
-        value: MICCAI 24'; ISBI 23', 24'
+        value: MICCAI 24', ISBI 23'-24'
 
 
 # - title: Experience
