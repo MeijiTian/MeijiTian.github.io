@@ -20,12 +20,12 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
-I am a 4th year Ph.D. candicate in [SMILE Lab:smiley:](https://smilelab.com.cn) at [ShanghaiTech University](https://www.shanghaitech.edu.cn) (Shanghai, China), advised by Prof. [Yuyao Zhang](https://scholar.google.com/citations?user=gIE0JTAAAAAJ&hl). Before that, I received my B.E. degree at Wuhan University of Technology in 2021.
+I am a 4-th year Ph.D. candicate in [SMILE Lab:smiley:](https://smilelab.com.cn) at [ShanghaiTech University](https://www.shanghaitech.edu.cn) (Shanghai, China), advised by Prof. [Yuyao Zhang](https://scholar.google.com/citations?user=gIE0JTAAAAAJ&hl). Before that, I received my B.E. degree of Computer Science and Technology from Wuhan University of Technology in 2021.
 
-I am interested in a variety of topics in <strong>medical image reconstruction</strong> and <strong>image restoration</strong>. My current research focuses include: <br>
-* Computational Imaging; <br>
-* Inverse Problems; <br>
-* Self-supervised Learning; <br>
-* Medical Imaging.
+I am dedicated to explore **solving medical inverse problems** within a scarce data and low SNR scenarios. Currently, my research focuses on:
+* CT/MRI Undersampled Reconstruction <br>
+* Motion Correction and Motion Tracking <br>
+* Self-supervised Image Restoration <br>
+* Diffusion Models
 
 See more in the [detailed CV](https://MeijiTian.github.io/assets/pdf/XuanyuTian.pdf).

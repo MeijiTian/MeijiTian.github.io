@@ -28,6 +28,16 @@ layout: default
         class=profile_image_class
         alt=page.profile.image -%}
       {% endif -%}
+      <div class="social">
+
+        <div class="contact-icons" style="font-size: 3em;">
+        {% include social.html %}
+        </div>
+        <div class="contact-note">
+          {{ site.contact_note }}
+        </div>
+
+      </div>
       {%- if page.profile.address %}
       <div class="address">
         {{ page.profile.address }}
@@ -40,16 +50,6 @@ layout: default
       {{ content }}
     </div>
 
-    <div class="social">
-      <div class="contact-icons">
-      {% include social.html %}
-      </div>
-
-      <div class="contact-note">
-        {{ site.contact_note }}
-      </div>
-      
-    </div>
 
     {% if page.news -%}
     <!-- News -->
@@ -72,6 +72,16 @@ layout: default
       
     </div> -->
     {%- endif %}
+
+    <body>
+
+    <div style="height: 20px;"></div>
+     <!-- 你可以根据需要调整高度 -->
+     <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=7bdc63&w=455&t=tt&d=W4z1yGOAg3zF5JlwMCP8ynZvG5HMCgCXnDi1m2GvtrA&co=ffffff&ct=1f9f00&cmo=75afc2&cmn=ff481f'></script>
+    </div>
+  </body>
+
+
   </article>
 
 </div>
