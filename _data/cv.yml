@@ -70,7 +70,7 @@
       - name: Journal Reviewer
         value: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
       - name: Conference Reviewer
-        value: MICCAI 24', ISBI 23'-24'
+        value: MICCAI 24' 25', ISBI 23'24'
 
 
 # - title: Experience
