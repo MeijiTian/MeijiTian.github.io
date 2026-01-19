@@ -29,7 +29,7 @@ I am dedicated to **solving medical inverse problems** within a scarce data and 
 * Self-supervised Image Restoration <br>
 
 
-See more in the [detailed CV](https://MeijiTian.github.io/assets/pdf/XuanyuTian.pdf).
+See more in the [detailed CV](https://MeijiTian.github.io/assets/pdf/CV_tianxy.pdf).
 
 
 
