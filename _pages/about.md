@@ -33,4 +33,4 @@ See more in the [detailed CV](https://MeijiTian.github.io/assets/pdf/CV_tianxy.p
 
 
 
-<strong style="color:#ff481f;">I'll be in Singapore for AAAI-26 from Jan 21-26, feel free to reach out :smile: !</strong>
+<!-- <strong style="color:#ff481f;">I'll be in Singapore for AAAI-26 from Jan 21-26, feel free to reach out :smile: !</strong> -->
