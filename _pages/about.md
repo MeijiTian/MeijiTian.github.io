@@ -28,6 +28,6 @@ I am dedicated to **solving medical inverse problems** within a scarce data and 
 * Optimization Framework <br>
 * Self-supervised Image Restoration <br>
 
-See more in the [detailed CV](https://MeijiTian.github.io/assets/pdf/CV_tianxy.pdf)
+See more in the [detailed CV](https://MeijiTian.github.io/assets/pdf/CV_XuanyuTian.pdf)
 
 <!-- <strong style="color:#ff481f;">I'll be in Singapore for AAAI-26 from Jan 21-26, feel free to reach out :smile: !</strong> -->
