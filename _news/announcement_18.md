@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2026-01-16 21:00:00-0400
+date: 2026-01-21 10:00:00-0400
 inline: true
 ---
 
-One paper about solving 3D medical inverse problems via 2D diffusion models were accepted by ICLR 2026 :tada:
+I attend attend AAAI 2026 at Singapore :smile:. Meet lots of friends! 

@@ -1,0 +1,21 @@
+{% assign recent_posts = site.posts | slice: 0, 3 %}
+{% if recent_posts and recent_posts.size > 0 %}
+<div class="news">
+  <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">Blog</a></h2>
+  <div class="table-responsive" style="max-height: none;">
+    <table class="table table-sm table-borderless">
+      {% for post in recent_posts %}
+      <tr>
+        <th scope="row" style="width: 9rem;">{{ post.date | date: "%Y-%m-%d" }}</th>
+        <td>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          {% if post.description %}
+          <div class="text-muted small mt-1">{{ post.description }}</div>
+          {% endif %}
+        </td>
+      </tr>
+      {% endfor %}
+    </table>
+  </div>
+</div>
+{% endif %}
