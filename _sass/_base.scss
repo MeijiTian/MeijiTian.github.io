@@ -460,6 +460,12 @@ footer.sticky-bottom {
 
 .publications {
   margin-top: 2rem;
+  &.selected-publications {
+    ol.bibliography li .preview {
+      max-height: 100px;
+      object-fit: contain;
+    }
+  }
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;

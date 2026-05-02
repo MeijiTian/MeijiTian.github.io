@@ -7,7 +7,8 @@ nav: true
 nav_order: 6
 ---
 
-* [<b>Lixuan Chen</b>](https://maopaom.github.io/) at [University of Michigan](https://ece.engin.umich.edu/) (Ann Anbor, US), former SMILE lab member. 
-* [<b>Qing Wu</b>](https://iwuqing.github.io/) from [SMILE Lab](https://smilelab.com.cn) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/).
-* [<b>Jiangjie Wu</b>](https://miraiwu.github.io//) from [SMILE Lab](https://smilelab.com.cn) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/).
-* [<b>Chenhe Du</b>](https://duchenhe.com) from [SMILE Lab](https://smilelab.com.cn) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/). 
+* [<b>Lixuan Chen</b>](https://maopaom.github.io/) @ [University of Michigan](https://ece.engin.umich.edu/) (Ann Arbor, US).
+* [<b>Qing Wu</b>](https://iwuqing.github.io/) @ Medical and Health lab, Ant Group.
+* [<b>Chenhe Du</b>](https://duchenhe.com) @ [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/).
+* [<b>Jiangjie Wu</b>](https://miraiwu.github.io/) former collaborator @ [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/).
+
