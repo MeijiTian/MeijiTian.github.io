@@ -73,15 +73,17 @@ layout: default
     </div> -->
     {%- endif %}
 
-    <body>
-
     <div style="height: 20px;"></div>
-     <!-- 你可以根据需要调整高度 -->
-     <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=7bdc63&w=455&t=tt&d=W4z1yGOAg3zF5JlwMCP8ynZvG5HMCgCXnDi1m2GvtrA&co=ffffff&ct=1f9f00&cmo=75afc2&cmn=ff481f'></script>
+    <div class="visitor-map" style="max-width: 306px; width: 100%; margin: 0 auto;">
+      <style>
+        .visitor-map #mapmyvisitors-widget .mapmyvisitors-visitors,
+        .visitor-map #mapmyvisitors-widget .mapmyvisitors-date,
+        .visitor-map #mapmyvisitors-widget .mapmyvisitors-bottom-text {
+          color: #50a539 !important;
+        }
+      </style>
+      <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=c4eda3&w=306&t=tt&d=z71cbnL9FMa97quHbJnuYCXV2JoD6Za4fjvHqsxeHXI&co=ffffff&cmo=aee0af&cmn=50a539&ct=50a539"></script>
     </div>
-  </body>
-
-
   </article>
 
 </div>
