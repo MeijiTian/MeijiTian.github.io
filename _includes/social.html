@@ -19,6 +19,13 @@
             {%- if site.github_username -%}
             <a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fab fa-github"></i></a>
             {% endif %}
+            {%- if site.wechat_qr -%}
+            <a href="{{ site.wechat_qr | relative_url }}" title="WeChat" onclick="document.getElementById('wechat-qr-modal').style.display='block'; return false;"><i class="fab fa-weixin"></i></a>
+            <div id="wechat-qr-modal" class="modal2" onclick="this.style.display='none'">
+              <span class="closeimg" onclick="document.getElementById('wechat-qr-modal').style.display='none'">&times;</span>
+              <img class="modal-content2 wechat-qr-image" src="{{ site.wechat_qr | relative_url }}" alt="WeChat QR code" onclick="event.stopPropagation();">
+            </div>
+            {% endif %}
             {%- if site.linkedin_username -%}
             <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
             {% endif %}
