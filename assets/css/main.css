@@ -397,7 +397,7 @@ blockquote {
   text-align: center;
 }
 .social .contact-icons {
-  font-size: 4rem;
+  font-size: 2.2rem;
 }
 .social .contact-icons a i::before {
   color: var(--global-text-color);
@@ -408,6 +408,13 @@ blockquote {
 }
 .social .contact-note {
   font-size: 0.8rem;
+}
+
+.wechat-qr-image {
+  background: #ffffff;
+  border-radius: 4px;
+  max-height: 82vh;
+  max-width: min(82vw, 420px);
 }
 
 footer.fixed-bottom {
