@@ -32,4 +32,6 @@ See more in the [detailed CV](https://MeijiTian.github.io/assets/pdf/CV_XuanyuTi
 
 <strong style="color:#ff481f;">I am seeking postdoctoral opportunities and welcome collaborations in cardiac and abdominal MRI.</strong>
 
+<strong style="color:var(--global-theme-color);">I will attend ICML 2026 in Seoul from July 5-10. Feel free to reach out!</strong>
+
 <!-- <strong style="color:#ff481f;">I'll be in Singapore for AAAI-26 from Jan 21-26, feel free to reach out :smile: !</strong> -->
